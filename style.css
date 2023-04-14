@@ -5,3 +5,10 @@ html {
 body {
    background-color: lightgoldenrodyellow;
 }
+img {margin: 5%}
+p {
+    padding: 20px 15px 15px 20px
+}
+p {
+  font-family: "Tahoma", "Sans-serif", sans-serif;
+}
