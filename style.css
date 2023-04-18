@@ -12,3 +12,9 @@ p {
 p {
   font-family: "Tahoma", "Sans-serif", sans-serif;
 }
+p {
+    text-align: center;
+    color: blue
+}
+body {color: royalblue
+     }
